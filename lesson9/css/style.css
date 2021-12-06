@@ -1,0 +1,22 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: cornsilk;
+    font-family:'Times New Roman', Times, serif;
+}
+
+.startup {
+    width: 100%;
+    max-width: 1330px;
+    height:35%;
+    max-height: 1500px;
+    background: url("../img/mayak.jpg");
+}
+
+.menu {
+    display: flex;
+}
